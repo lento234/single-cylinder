@@ -23,7 +23,7 @@ from scipy import *
 from pylab import *
 
 #importing custom modules
-from vort2D import*
+from vort2D import *
 from unitVec import *
 
 import streamlines as sl
